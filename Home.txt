@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-09-20T20:44:57+01:00
+
+====== Home ======
+Created Monday 20 September 2021
+
+Just a sample note
+
+{{~/Data/QUB/PhD/Research/Whiteboard/PlateDistributedContact/IMG_1044.jpg?width=400}}
+
+
+====== Let us see ======
+
+How this [[https://www.techrepublic.com/blog/linux-and-open-source/how-to-use-zim-a-multi-tasking-desktop-wiki/|goes]]
+
+{{./equation.png?type=equation}}
